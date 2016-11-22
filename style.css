@@ -1,3 +1,8 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
 .top{
     
     margin: -3px;
@@ -14,43 +19,36 @@ text-align: center;
      
 }
 .input{
-   margin: -24px;
+   margin: -162px;
     padding: 51px;
     text-align: center;
 }
+
+
 .button{  
-        margin: 10px;
-         padding: 10px;
-}
-
-a{
     text-align: center;
-    margin: 10px;
+    margin: 44px;
+    padding: 7px;
+    margin: 52px 6px;
 }
-
 P{
-    margin:132px;
+ margin: 30px;
     padding: 10px;  
 }
 
  .end{
-     background-color:rgb(242, 242, 242);
-   margin: -175px;
-    padding: 11px;
+    background-color: rgb(242, 242, 242);
+    margin: 34px;
+    padding:9px;
     text-align: -webkit-left;
-   line-height: 40px;
-  text-indent: -1px;
+    line-height: 26px;
+    text-indent: 25px;
+    margin: 10px;
 
  }
 
-
-strong{
-       
-    padding: 10px;
-
- }
-
- .span{
-           float: right;
-   margin-right: 35px;
+.span{
+     text-align: center;
+     float: right;
+     margin-right: 11px;
  }
