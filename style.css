@@ -1,0 +1,67 @@
+.top{
+    
+    margin: -3px;
+    padding: 8px;
+    text-align: end;
+    font-size: 17px;
+    padding-top: 10px;
+   
+
+
+}
+
+.google{
+      margin: 130px;
+    padding: 10px;
+text-align: center;        
+     
+}
+
+
+.input{
+   margin: -24px;
+    padding: 51px;
+    text-align: center;
+
+}
+
+
+.button{  
+        margin: 10px;
+         padding: 10px;
+}
+
+a{
+    text-align: center;
+    margin: 10px;
+}
+
+P{
+    margin:132px;
+    padding: 10px;
+    
+}
+ 
+
+ .end{
+     background-color:rgb(242, 242, 242);
+   margin: -175px;
+    padding: 11px;
+    text-align: -webkit-left;
+   line-height: 40px;
+  text-indent: -1px;
+
+ }
+
+
+strong{
+       
+    padding: 10px;
+
+ }
+
+
+ .span{
+           float: right;
+   margin-right: 35px;
+ }
