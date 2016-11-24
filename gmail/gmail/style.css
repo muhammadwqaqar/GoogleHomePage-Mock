@@ -1,0 +1,133 @@
+.googletext{
+      padding: 0px;
+    font-size: 38px;
+    color: rgb(118, 118, 118);
+    margin-top: auto;
+    display: inline-table;
+    width: 173px;
+}
+input{
+    margin: -6px;
+    padding: 6px
+}
+.buttontop{
+    background-color:rgb(68, 133, 245);
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);  
+     border: 1px solid transparent;
+     width: 75px;
+     height: 32px;
+}
+img{
+    width: 24px;
+    height: 20px;
+    margin: -5px;
+}
+.imgtop{
+      
+        display: initial;
+       text-align: end;
+       margin: 395px;
+}
+
+                                
+
+
+
+.gmailtext{
+    margin: 10px;
+    font-size: 25px;
+    display: inline-table;
+        width: 135px;
+}
+.buttongmail{
+              background-color: rgba(251, 251, 251);
+              width: 58px;
+              height: 32px;
+              margin: 14px;
+              padding: 10px;
+                  text-align: center;
+}
+.butreplay{
+        width: 68px;
+    height: 33px;
+    margin: 5px;
+    padding: 10px;
+        text-align: center;
+}
+.butMore{
+ margin: 14px;
+    padding: 10px;
+    width: 65px;
+    height: 34px;
+   text-align: -webkit-center;
+}
+a{
+    margin: 283px;
+    padding: 10px;
+}
+.butimg1 {
+     width: 35px;
+    height: 29px;;
+}
+.butimg2{
+      width: 35px;
+      height: 29px;
+          margin: -5px;
+}
+.butkeyboard {
+              margin: 22px;
+              padding: 5px;
+              width: 48px;
+              height: 29px;
+}
+.butsettings{
+         margin: 0px;
+          padding: 5px;
+           width: 56px;
+            height: 29px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*p{
+    text-align: end;
+    display: inline-table;
+}*/
+
+
+
+
+
+
+
+
+
