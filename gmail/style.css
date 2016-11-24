@@ -1,0 +1,31 @@
+
+.googletext{
+      padding: 0px;
+    font-size: 38px;
+    color: rgb(118, 118, 118);
+    margin-top: auto;
+    display: inline-table;
+    width: 159px;
+}
+input{
+    margin: -6px;
+    padding: 6px
+}
+button{
+    background-color:rgb(68, 133, 245);
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);  
+     border: 1px solid transparent;
+     width: 75px;
+     height: 32px;
+}
+img{
+    width: 24px;
+    height: 20px;
+    margin: -5px;
+}
+.imgtop{
+      
+        display: initial;
+       text-align: end;
+       margin: 395px;
+}
