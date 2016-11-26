@@ -111,7 +111,7 @@ img{
 
 }
 
-center{
+.center{
         margin: 25px;
     padding: 123px;
     margin-top: -377px;
@@ -148,6 +148,39 @@ ul.tab li a:focus, .active {
     border: 1px solid #ccc;
     border-top: none;
 }
+
+
+
+
+
+tr{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
